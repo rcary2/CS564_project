@@ -1,0 +1,675 @@
+category_ID,display_name,category_count
+1,#cakeweek,6
+2,#wasteless,1
+3,22-minute meals,15
+4,3-ingredient recipes,20
+5,30 days of groceries,7
+6,advance prep required,69
+7,alabama,1
+8,alaska,2
+9,alcoholic,610
+10,almond,448
+11,amaretto,30
+12,anchovy,27
+13,anise,79
+14,anniversary,88
+15,anthony bourdain,2
+16,aperitif,6
+17,appetizer,1009
+18,apple,508
+19,apple juice,5
+20,apricot,202
+21,arizona,8
+22,artichoke,121
+23,arugula,185
+24,asian pear,14
+25,asparagus,151
+26,aspen,1
+27,atlanta,5
+28,australia,4
+29,avocado,191
+30,back to school,141
+31,backyard bbq,614
+32,bacon,481
+33,bake,3479
+34,banana,123
+35,barley,38
+36,basil,424
+37,bass,59
+38,bastille day,20
+39,bean,409
+40,beef,621
+41,beef rib,43
+42,beef shank,9
+43,beef tenderloin,55
+44,beer,72
+45,beet,144
+46,bell pepper,543
+47,berry,314
+48,beverly hills,1
+49,birthday,134
+50,biscuit,4
+51,bitters,88
+52,blackberry,109
+53,blender,435
+54,blue cheese,183
+55,blueberry,134
+56,boil,294
+57,bok choy,37
+58,bon appétit,6807
+59,bon app��tit,7
+60,boston,4
+61,bourbon,97
+62,braise,272
+63,bran,3
+64,brandy,206
+65,bread,378
+66,breadcrumbs,31
+67,breakfast,519
+68,brie,9
+69,brine,27
+70,brisket,25
+71,broccoli,75
+72,broccoli rabe,35
+73,broil,353
+74,brooklyn,6
+75,brown rice,10
+76,brownie,2
+77,brunch,622
+78,brussel sprout,42
+79,buffalo,2
+80,buffet,101
+81,bulgaria,1
+82,bulgur,18
+83,burrito,1
+84,butter,124
+85,buttermilk,57
+86,butternut squash,136
+87,butterscotch/caramel,10
+88,cabbage,234
+89,cake,588
+90,california,132
+91,calvados,14
+92,cambridge,3
+93,campari,15
+94,camping,0
+95,canada,7
+96,candy,41
+97,candy thermometer,40
+98,cantaloupe,38
+99,capers,134
+100,caraway,23
+101,cardamom,31
+102,carrot,513
+103,cashew,52
+104,casserole/gratin,165
+105,cauliflower,89
+106,caviar,1
+107,celery,230
+108,chambord,11
+109,champagne,72
+110,chard,59
+111,chartreuse,16
+112,cheddar,209
+113,cheese,1019
+114,cherry,195
+115,chestnut,57
+116,chicago,4
+117,chicken,993
+118,chickpea,101
+119,chile,8
+120,chile pepper,144
+121,chili,2
+122,chill,842
+123,chive,186
+124,chocolate,635
+125,christmas,752
+126,christmas eve,215
+127,cilantro,430
+128,cinco de mayo,120
+129,cinnamon,341
+130,citrus,641
+131,clam,107
+132,clove,146
+133,cobbler/crumble,6
+134,cocktail,274
+135,cocktail party,837
+136,coconut,270
+137,cod,49
+138,coffee,149
+139,coffee grinder,10
+140,cognac/armagnac,70
+141,collard greens,20
+142,colorado,16
+143,columbus,3
+144,condiment,52
+145,condiment/spread,616
+146,connecticut,11
+147,cook like a diner,4
+148,cookbook critic,3
+149,cookie,58
+150,cookies,213
+151,coriander,97
+152,corn,276
+153,cornmeal,207
+154,costa mesa,1
+155,cottage cheese,26
+156,couscous,64
+157,crab,121
+158,cranberry,284
+159,cranberry sauce,3
+160,cream cheese,302
+161,créme de cacao,18
+162,crêpe,1
+163,cr��me de cacao,1
+164,cuba,1
+165,cucumber,281
+166,cumin,61
+167,cupcake,2
+168,currant,84
+169,curry,207
+170,custard,2
+171,dairy,1136
+172,dairy free,2238
+173,dallas,5
+174,date,96
+175,deep-fry,58
+176,denver,3
+177,dessert,2669
+178,digestif,4
+179,dill,213
+180,dinner,1794
+181,dip,11
+182,diwali,18
+183,dominican republic,2
+184,dorie greenspan,1
+185,double boiler,27
+186,dried fruit,160
+187,drink,794
+188,drinks,10
+189,duck,76
+190,easter,157
+191,eau de vie,6
+192,edible gift,69
+193,egg,1334
+194,egg nog,7
+195,eggplant,162
+196,egypt,0
+197,emeril lagasse,1
+198,endive,90
+199,engagement party,121
+200,england,1
+201,entertaining,5
+202,epi + ushg,2
+203,epi loves the microwave,1
+204,escarole,34
+205,fall,2287
+206,family reunion,205
+207,fat free,255
+208,father's day,194
+209,fennel,270
+210,feta,170
+211,fig,122
+212,fish,676
+213,flaming hot summer,10
+214,flat bread,1
+215,florida,38
+216,fontina,23
+217,food processor,735
+218,fortified wine,57
+219,fourth of july,249
+220,france,12
+221,frangelico,15
+222,frankenrecipe,0
+223,freeze/chill,317
+224,freezer food,2
+225,friendsgiving,8
+226,frittata,0
+227,fritter,1
+228,frozen dessert,264
+229,fruit,1485
+230,fruit juice,354
+231,fry,315
+232,game,29
+233,garlic,1212
+234,georgia,16
+235,germany,1
+236,gin,174
+237,ginger,832
+238,goat cheese,236
+239,goose,11
+240,gouda,7
+241,gourmet,5123
+242,graduation,57
+243,grains,7
+244,grand marnier,0
+245,granola,5
+246,grape,52
+247,grapefruit,85
+248,grappa,4
+249,green bean,161
+250,green onion/scallion,78
+251,grill,345
+252,grill/barbecue,763
+253,ground beef,69
+254,ground lamb,24
+255,guam,1
+256,guava,17
+257,haiti,1
+258,halibut,62
+259,halloween,35
+260,ham,171
+261,hamburger,3
+262,hanukkah,88
+263,harpercollins,94
+264,hawaii,2
+265,hazelnut,138
+266,healdsburg,1
+267,healthy,1167
+268,herb,1269
+269,high fiber,572
+270,hollywood,1
+271,hominy/cornmeal/masa,61
+272,honey,291
+273,honeydew,25
+274,hors d'oeuvre,10
+275,horseradish,127
+276,hot drink,31
+277,hot pepper,357
+278,house & garden,331
+279,house cocktail,6
+280,houston,1
+281,hummus,2
+282,ice cream,10
+283,ice cream machine,121
+284,iced coffee,2
+285,iced tea,14
+286,idaho,1
+287,illinois,8
+288,indiana,3
+289,iowa,0
+290,ireland,11
+291,israel,2
+292,italy,5
+293,jalapeño,259
+294,jam or jelly,115
+295,jamaica,0
+296,japan,2
+297,jerusalem artichoke,15
+298,juicer,4
+299,jícama,27
+300,kahlúa,19
+301,kale,94
+302,kansas,3
+303,kansas city,2
+304,kentucky,2
+305,kentucky derby,30
+306,kid-friendly,1267
+307,kidney friendly,1676
+308,kirsch,26
+309,kitchen olympics,1
+310,kiwi,21
+311,kosher,4520
+312,kosher for passover,26
+313,kumquat,29
+314,kwanzaa,11
+315,labor day,6
+316,lamb,277
+317,lamb chop,34
+318,lamb shank,11
+319,lancaster,4
+320,las vegas,0
+321,lasagna,3
+322,leafy green,666
+323,leek,206
+324,legume,43
+325,lemon,835
+326,lemon juice,92
+327,lemongrass,63
+328,lentil,74
+329,lettuce,160
+330,lima bean,39
+331,lime,407
+332,lime juice,87
+333,lingonberry,5
+334,liqueur,234
+335,lobster,59
+336,london,1
+337,long beach,2
+338,los angeles,21
+339,louisiana,3
+340,louisville,1
+341,low cal,519
+342,low carb,252
+343,low cholesterol,227
+344,low fat,298
+345,low sodium,225
+346,low sugar,9
+347,low/no sugar,200
+348,lunar new year,42
+349,lunch,898
+350,lychee,6
+351,macadamia nut,41
+352,macaroni and cheese,3
+353,maine,5
+354,mandoline,4
+355,mango,170
+356,maple syrup,106
+357,mardi gras,40
+358,margarita,16
+359,marinade,1
+360,marinate,462
+361,marsala,31
+362,marscarpone,3
+363,marshmallow,5
+364,martini,4
+365,maryland,11
+366,massachusetts,40
+367,mayonnaise,287
+368,meat,203
+369,meatball,5
+370,meatloaf,2
+371,melon,42
+372,mexico,5
+373,mezcal,1
+374,miami,2
+375,michigan,23
+376,microwave,27
+377,midori,3
+378,milk/cream,1581
+379,minneapolis,1
+380,minnesota,10
+381,mint,444
+382,mississippi,0
+383,missouri,14
+384,mixer,508
+385,molasses,97
+386,monterey jack,33
+387,mortar and pestle,1
+388,mother's day,116
+389,mozzarella,143
+390,muffin,5
+391,mushroom,651
+392,mussel,101
+393,mustard,461
+394,mustard greens,24
+395,nancy silverton,1
+396,nebraska,1
+397,nectarine,43
+398,new hampshire,0
+399,new jersey,21
+400,new mexico,12
+401,new orleans,1
+402,new year's day,58
+403,new year's eve,108
+404,new york,42
+405,"no meat, no problem",6
+406,no sugar added,2183
+407,no-cook,860
+408,non-alcoholic,158
+409,noodle,116
+410,north carolina,16
+411,nut,701
+412,nutmeg,82
+413,oat,109
+414,oatmeal,8
+415,octopus,6
+416,ohio,12
+417,oklahoma,4
+418,okra,15
+419,oktoberfest,26
+420,olive,428
+421,omelet,2
+422,one-pot meal,9
+423,onion,1661
+424,orange,630
+425,orange juice,33
+426,oregano,70
+427,oregon,16
+428,organic,5
+429,orzo,1
+430,oscars,71
+431,oyster,31
+432,pacific palisades,1
+433,paleo,526
+434,pan-fry,177
+435,pancake,5
+436,papaya,41
+437,paprika,34
+438,parade,9
+439,paris,3
+440,parmesan,492
+441,parsley,375
+442,parsnip,93
+443,party,622
+444,pasadena,12
+445,passion fruit,37
+446,passover,141
+447,pasta,746
+448,pasta maker,7
+449,pastry,69
+450,pea,168
+451,peach,141
+452,peanut,119
+453,peanut butter,16
+454,peanut free,6145
+455,pear,208
+456,pecan,272
+457,pennsylvania,28
+458,pepper,449
+459,pernod,40
+460,persian new year,3
+461,persimmon,10
+462,peru,2
+463,pescatarian,4426
+464,philippines,1
+465,phyllo/puff pastry dough,102
+466,pickles,13
+467,picnic,366
+468,pie,18
+469,pine nut,184
+470,pineapple,180
+471,pistachio,132
+472,pittsburgh,8
+473,pizza,8
+474,plantain,15
+475,plum,82
+476,poach,96
+477,poblano,5
+478,poker/game night,96
+479,pomegranate,59
+480,pomegranate juice,5
+481,poppy,17
+482,pork,734
+483,pork chop,76
+484,pork rib,43
+485,pork tenderloin,83
+486,port,84
+487,portland,12
+488,pot pie,1
+489,potato,859
+490,potato salad,1
+491,potluck,338
+492,poultry,443
+493,poultry sausage,9
+494,pressure cooker,6
+495,prosciutto,114
+496,providence,1
+497,prune,88
+498,pumpkin,88
+499,punch,49
+500,purim,12
+501,quail,12
+502,quiche,1
+503,quick & easy,3778
+504,quick and healthy,41
+505,quince,23
+506,quinoa,31
+507,rabbit,5
+508,rack of lamb,22
+509,radicchio,12
+510,radish,149
+511,raisin,286
+512,ramadan,32
+513,ramekin,25
+514,raspberry,254
+515,raw,52
+516,red wine,215
+517,rhode island,6
+518,rhubarb,60
+519,rice,383
+520,ricotta,116
+521,roast,942
+522,root vegetable,115
+523,rosemary,274
+524,rosh hashanah/yom kippur,58
+525,rosé,0
+526,rub,1
+527,rum,257
+528,rutabaga,31
+529,rye,14
+530,saffron,86
+531,sage,136
+532,sake,13
+533,salad,1115
+534,salad dressing,105
+535,salmon,237
+536,salsa,3
+537,san francisco,6
+538,sandwich,291
+539,sandwich theory,8
+540,sangria,12
+541,santa monica,8
+542,sardine,2
+543,sauce,649
+544,sausage,304
+545,sauté,1586
+546,scallop,130
+547,scotch,17
+548,seafood,270
+549,seattle,8
+550,seed,104
+551,self,14
+552,semolina,11
+553,sesame,109
+554,sesame oil,23
+555,shallot,253
+556,shavuot,20
+557,shellfish,430
+558,sherry,85
+559,shower,238
+560,shrimp,386
+561,side,2253
+562,simmer,615
+563,skewer,7
+564,slow cooker,20
+565,smoker,5
+566,smoothie,23
+567,snapper,45
+568,sorbet,1
+569,soufflé/meringue,3
+570,soup/stew,871
+571,sour cream,316
+572,sourdough,1
+573,south carolina,9
+574,soy,75
+575,soy free,5939
+576,soy sauce,215
+577,spain,1
+578,sparkling wine,38
+579,spice,514
+580,spinach,262
+581,spirit,162
+582,spring,1229
+583,spritzer,4
+584,squash,104
+585,squid,36
+586,st. louis,7
+587,st. patrick's day,40
+588,steak,174
+589,steam,151
+590,stew,139
+591,stir-fry,173
+592,stock,2
+593,strawberry,211
+594,stuffing/dressing,96
+595,sugar conscious,1712
+596,sugar snap pea,55
+597,sukkot,13
+598,summer,3021
+599,super bowl,233
+600,suzanne goin,1
+601,sweet potato/yam,195
+602,swiss cheese,65
+603,switzerland,4
+604,swordfish,10
+605,taco,5
+606,tailgating,83
+607,tamarind,14
+608,tangerine,22
+609,tapioca,9
+610,tarragon,174
+611,tart,7
+612,tea,82
+613,tennessee,1
+614,tequila,72
+615,tested & improved,1
+616,texas,20
+617,thanksgiving,1076
+618,thyme,247
+619,tilapia,5
+620,tofu,56
+621,tomatillo,55
+622,tomato,1580
+623,tortillas,103
+624,tree nut,70
+625,tree nut free,5105
+626,triple sec,65
+627,tropical fruit,45
+628,trout,38
+629,tuna,91
+630,turnip,70
+631,utah,3
+632,valentine's day,164
+633,vanilla,193
+634,veal,102
+635,vegan,1240
+636,vegetable,1546
+637,vegetarian,4967
+638,venison,5
+639,vermont,5
+640,vermouth,10
+641,vinegar,473
+642,virginia,11
+643,vodka,98
+644,waffle,0
+645,walnut,342
+646,wasabi,17
+647,washington,24
+648,"washington, d.c.",7
+649,watercress,106
+650,watermelon,47
+651,wedding,83
+652,weelicious,29
+653,west virginia,1
+654,westwood,1
+655,wheat/gluten-free,3515
+656,whiskey,45
+657,white wine,397
+658,whole wheat,24
+659,wild rice,11
+660,windsor,1
+661,wine,136
+662,winter,2358
+663,wisconsin,4
+664,wok,83
+665,yellow squash,20
+666,yogurt,330
+667,yonkers,1
+668,yuca,5
+669,zucchini,221
+670,cookbooks,2
+671,leftovers,5
+672,snack,20
+673,snack week,12
+674,turkey,280
